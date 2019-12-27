@@ -1,8 +1,8 @@
 #include <iostream>
-
 using namespace std;
 
 int main(){
-    cout << "iove you";
+    int a,b
+    cout << "AAAAA";
     return 0;
 }
