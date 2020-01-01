@@ -2,6 +2,7 @@
 using namespace std;
 
 int main() {
+    
     float a = 1;
     float b = 6;
     float c;
